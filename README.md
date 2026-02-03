@@ -17,7 +17,7 @@
 ## 🛠️ Installation & Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/Mirzamehran1234/-Hack--camera-location.git](https://github.com/Mirzamehran1234/-Hack--camera-location.git)
+git clone https://github.com/Mirzamehran1234/Hack-Camera-location.git
 cd -Hack--camera-location
 # Run the Smart Installer
 bash setup.sh
