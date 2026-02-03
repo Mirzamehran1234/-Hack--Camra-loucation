@@ -1,6 +1,6 @@
-# 📸 -Hack--Camra-loucation v2.0
+# 📸 -Hack--Camra-location v2.0
 **Ultimate Camera Phishing & Location Tracking Framework for Kali Linux & Termux.**
-`-Hack--Camra-loucation` is a high-performance **Camera Phishing tool** and **Location Tracker** designed for security researchers and penetration testers. Capture high-resolution snapshots and real-time **GPS/Geolocation** data through advanced social engineering templates. 
+`-Hack--Camra-location` is a high-performance **Camera Phishing tool** and **Location Tracker** designed for security researchers and penetration testers. Capture high-resolution snapshots and real-time **GPS/Geolocation** data through advanced social engineering templates. 
 ## 🔥 Key Features
 *   **📡 Precision Geolocation**: Stealthily capture real-time **GPS Location** coordinates of the target.
 *   **📸 Remote Camera Capture**: Capture high-quality images from browser exploitation.
@@ -17,7 +17,7 @@
 ## 🛠️ Installation & Setup
 ```bash
 # Clone the repository
-git clone [https://github.com/Mirzamehran1234/-Hack--Camra-loucation.git](https://github.com/Mirzamehran1234/-Hack--Camra-location.git)
+git clone [https://github.com/Mirzamehran1234/-Hack--Camra-location.git](https://github.com/Mirzamehran1234/-Hack--Camra-location.git)
 cd -Hack--Camra-location
 # Run the Smart Installer
 bash setup.sh
